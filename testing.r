@@ -1,4 +1,3 @@
 name <- "Will"
 
-
-paste("My name is: " , name)
+print(name)
